@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Shapely functions and definitions.
  *
@@ -7,4 +6,5 @@
  *
  * @package Winten10
  */
+<link rel="stylesheet" href="style.css">
  ?>
